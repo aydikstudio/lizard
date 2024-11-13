@@ -1,6 +1,6 @@
 import {Telegraf, Markup} from 'telegraf'
 
-const token = '6645515891:AAGliwY1xsl_AJwgvw7YGxzc48o-6u7Uh4k'
+const token = ''
 const webAppUrl = 'https://lizard-695ad.web.app'
 
 const bot = new Telegraf(token)
